@@ -1,1 +1,0 @@
-<h2>minimum-difference-between-highest-and-lowest-of-k-scores Notes</h2><hr>[ Time taken: 6 m 35 s ]
